@@ -1,0 +1,41 @@
+{
+  "name": "Umiña Stone #02 - Amethyst",
+  "description": "Sample amethyst crystal point from Puno, submitted through the mint form (fake data for testing).",
+  "stone_id": "UMINA-2026-AM-02",
+  "stone_type": "amethyst",
+  "specimen_form": "natural",
+  "hs_code": "7103.99.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "vendor_name": "Umiña Achala",
+  "vendor_ruc": "20999887768",
+  "mining_concession": "010253815",
+  "reinfo_id": "10456789124",
+  "reinfo_status": "Vigente",
+  "attributes": {
+    "Weight": "148 g",
+    "Grading": "Specimen Grade",
+    "Date Mined": "2026-03-02",
+    "Habit": "Crystal point"
+  },
+  "main_image": {
+    "file": "amethyst_b1.jpg",
+    "description": "Front view"
+  },
+  "images": [
+    {
+      "file": "amethyst_b1.png",
+      "description": "Front view, transparent background"
+    }
+  ],
+  "documents": [
+    {
+      "file": "amethyst_b_store-receipt.pdf",
+      "description": "Store receipt (sample, fake)"
+    },
+    {
+      "file": "amethyst_b_mining-permit.pdf",
+      "description": "Mining concession and extraction permit (sample, fake)"
+    }
+  ]
+}
