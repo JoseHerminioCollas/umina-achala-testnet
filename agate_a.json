@@ -26,6 +26,26 @@
     {
       "file": "agate_a1.png",
       "description": "Front view, transparent background"
+    },
+    {
+      "file": "agate_a2.png",
+      "description": "Front view, turned left 25° (estimated from photo 1)"
+    },
+    {
+      "file": "agate_a3.png",
+      "description": "Front view, turned right 25° (estimated from photo 1)"
+    },
+    {
+      "file": "agate_a4.png",
+      "description": "Front view, tilted to show the top (estimated from photo 1)"
+    },
+    {
+      "file": "agate_a5.png",
+      "description": "Side view (estimated from photo 1)"
+    },
+    {
+      "file": "agate_a6.png",
+      "description": "Back view (estimated from photo 1)"
     }
   ],
   "documents": [
@@ -36,6 +56,10 @@
     {
       "file": "agate_a_mining-permit.pdf",
       "description": "Mining concession and extraction permit (sample, fake)"
+    },
+    {
+      "file": "agate_a_3d-model.glb",
+      "description": "3D model, estimated from one photo (sample)"
     }
   ]
 }

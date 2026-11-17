@@ -30,6 +30,7 @@ chrysocolla_a2.png                 stone A, photo 2
 chrysocolla_a3.png                 stone A, photo 3
 chrysocolla_a_mining-permit.pdf    stone A's documents
 chrysocolla_a_store-receipt.pdf
+agate_a_3d-model.glb               a 3D model, also listed in documents
 chrysocolla_master.xcf             GIMP file with the group photo the stones were cut from
 ```
 
@@ -54,6 +55,8 @@ For each stone: cut it out once and export the transparent PNG (`images[0]`). Th
 ## Sources and rights
 
 All images are from [Unsplash](https://unsplash.com), under the [Unsplash License](https://unsplash.com/license): free to use, commercial use included, with no attribution required; the photos may not be sold as they are or used to build a competing image service. An image from any other source (own photo, other stock, AI-generated) must say so here before it is added.
+
+**Estimated views (agate A):** `agate_a2.png`–`agate_a6.png` and `agate_a_3d-model.glb` are not photos. They were generated from the Unsplash photo `agate_a1` with the SAM 2 tool (`~/projects/sam2_goatstone`): the stone is modelled as a rounded tumbled shape, and its sides and back are invented from the front. They are here to test the multi-image card and the 3D view (umina-achala/umina-achala-web#119); real stones get real photos and 3D scans.
 
 The PDFs are made up for testing. Their permit, REINFO and RUC numbers are not real.
 
