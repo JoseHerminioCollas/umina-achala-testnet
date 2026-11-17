@@ -1,0 +1,60 @@
+{
+  "name": "Umiña Stone #02 - Opal",
+  "description": "Sample tumbled Andean blue opal from Arequipa, submitted through the mint form (fake data for testing).",
+  "stone_id": "UMINA-2026-OP-02",
+  "stone_type": "opal",
+  "specimen_form": "worked",
+  "hs_code": "7103.99.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "vendor_name": "Umiña Achala",
+  "vendor_ruc": "20999887768",
+  "mining_concession": "010253815",
+  "reinfo_id": "10456789124",
+  "reinfo_status": "Vigente",
+  "certification": [
+    {
+      "issuer": "Sample Gem Lab",
+      "report_no": "SGL-2026-00122",
+      "date": "2026-11-17",
+      "verify_url": "https://example.org/verify/SGL-2026-00122",
+      "covers": [
+        "type",
+        "quality"
+      ],
+      "identification": "Natural opal, Andean blue (common opal)",
+      "grade": "AA",
+      "document": "opal_b_lab-report.pdf"
+    }
+  ],
+  "attributes": {
+    "Weight": "7.4 g",
+    "Grading": "Collector Grade",
+    "Date Mined": "2026-05-21",
+    "Stone Cut": "Tumbled"
+  },
+  "main_image": {
+    "file": "opal_b1.jpg",
+    "description": "Front view"
+  },
+  "images": [
+    {
+      "file": "opal_b1.png",
+      "description": "Front view, transparent background"
+    }
+  ],
+  "documents": [
+    {
+      "file": "opal_b_lab-report.pdf",
+      "description": "Gem lab report: identification and grade (sample, fake)"
+    },
+    {
+      "file": "opal_b_store-receipt.pdf",
+      "description": "Store receipt (sample, fake)"
+    },
+    {
+      "file": "opal_b_mining-permit.pdf",
+      "description": "Mining concession and extraction permit (sample, fake)"
+    }
+  ]
+}
