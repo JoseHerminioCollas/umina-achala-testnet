@@ -1,0 +1,41 @@
+{
+  "name": "Umiña Stone #01 - Pyrite",
+  "description": "Sample pyrite crystal cluster from Ancash, submitted through the mint form (fake data for testing).",
+  "stone_id": "UMINA-2026-PY-01",
+  "stone_type": "pyrite",
+  "specimen_form": "natural",
+  "hs_code": "2502.00.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "vendor_name": "Umiña Achala",
+  "vendor_ruc": "20999887768",
+  "mining_concession": "010253815",
+  "reinfo_id": "10456789124",
+  "reinfo_status": "Vigente",
+  "attributes": {
+    "Weight": "420 g",
+    "Grading": "Collector Grade",
+    "Date Mined": "2026-06-03",
+    "Habit": "Crystal cluster"
+  },
+  "main_image": {
+    "file": "pyrite_a1.jpg",
+    "description": "Front view"
+  },
+  "images": [
+    {
+      "file": "pyrite_a1.png",
+      "description": "Front view, transparent background"
+    }
+  ],
+  "documents": [
+    {
+      "file": "pyrite_a_store-receipt.pdf",
+      "description": "Store receipt (sample, fake)"
+    },
+    {
+      "file": "pyrite_a_mining-permit.pdf",
+      "description": "Mining concession and extraction permit (sample, fake)"
+    }
+  ]
+}
