@@ -46,6 +46,10 @@
     {
       "file": "achala_d_gold-invoice.pdf",
       "description": "Gold invoice (sample, fake)"
+    },
+    {
+      "file": "achala_d_consignment-agreement.pdf",
+      "description": "Consignment agreement with the merchant (sample, fake)"
     }
   ],
   "images": [

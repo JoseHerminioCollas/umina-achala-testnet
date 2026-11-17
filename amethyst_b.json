@@ -36,6 +36,10 @@
     {
       "file": "amethyst_b_mining-permit.pdf",
       "description": "Mining concession and extraction permit (sample, fake)"
+    },
+    {
+      "file": "amethyst_b_consignment-agreement.pdf",
+      "description": "Consignment agreement with the merchant (sample, fake)"
     }
   ]
 }

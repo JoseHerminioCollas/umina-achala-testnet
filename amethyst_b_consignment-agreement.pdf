@@ -1,0 +1,47 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 630 >>
+stream
+BT /F1 14 Tf 60 760 Td 18 TL
+(SAMPLE - FAKE DOCUMENT FOR TESTING ONLY) Tj T*
+() Tj T*
+(Umina Achala - Consignment Agreement) Tj T*
+(Agreement no: SAMPLE-CONS-0002) Tj T*
+(Date: 2026-11-17) Tj T*
+(Consignor: Umina Achala, RUC 20999887768 [not a real RUC]) Tj T*
+(Merchant: Comercial Ejemplo E.I.R.L.) Tj T*
+(Merchant RUC: 10999887766 [not a real RUC]) Tj T*
+(Item: Amethyst crystal point, 148 g [UMINA-2026-AM-02]) Tj T*
+(Listed price: 190.00 PEN) Tj T*
+(Split: merchant 70%, Umina Achala 30%, after the 5% royalty) Tj T*
+(Term: 90 days; unsold items return to Umina Achala) Tj T*
+() Tj T*
+(This is not a real agreement.) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000921 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+991
+%%EOF

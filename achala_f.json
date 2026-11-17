@@ -1,0 +1,47 @@
+{
+  "name": "Achala Ring - Refusal test (reuses the stone of Achala C)",
+  "description": "Refusal test, never minted: a second ring that lists UMINA-2026-QZ-03, already mounted in ACHALA-2026-RI-01. The mint must refuse it (fake data for testing).",
+  "stone_id": "ACHALA-2026-RI-99",
+  "piece_type": "ring",
+  "stones": [
+    {
+      "serial": 1,
+      "stone_id": "UMINA-2026-QZ-03"
+    }
+  ],
+  "metals": [
+    {
+      "stone_type": "silver",
+      "fineness": "950",
+      "weight_g": 7.8,
+      "source": "invoice"
+    }
+  ],
+  "technique": "Rope-twist bezel, pierced scroll shoulders, oxidized finish",
+  "artisan_rna": "RNA-112233",
+  "hs_code": "7113.11.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "creator": "Joyería Ejemplo S.A.C.",
+  "vendor_name": "Joyería Ejemplo S.A.C.",
+  "vendor_ruc": "20999887768",
+  "attributes": {
+    "Ring Size": "7 (US)"
+  },
+  "main_image": {
+    "file": "achala_c1.jpg",
+    "description": "Side view"
+  },
+  "documents": [
+    {
+      "file": "achala_c_silver-invoice.pdf",
+      "description": "Silver invoice (sample, fake)"
+    }
+  ],
+  "images": [
+    {
+      "file": "achala_c1.png",
+      "description": "Side view, transparent background"
+    }
+  ]
+}
