@@ -58,6 +58,8 @@ All images are from [Unsplash](https://unsplash.com), under the [Unsplash Licens
 
 **Estimated views (agate A):** `agate_a2.png`–`agate_a6.png` and `agate_a_3d-model.glb` are not photos. They were generated from the Unsplash photo `agate_a1` with the SAM 2 tool (`~/projects/sam2_goatstone`): the stone is modelled as a rounded tumbled shape, and its sides and back are invented from the front. They are here to test the multi-image card and the 3D view (umina-achala/umina-achala-web#119); real stones get real photos and 3D scans.
 
+**Estimated 3D model (quartz B):** `quartz_b_3d-model.glb` is a step-cut gem built from the outline of the Unsplash photo `quartz_b1` (`gem_glb.py`): the top is the photo, the underside and the proportions are invented.
+
 The PDFs are made up for testing. Their permit, REINFO and RUC numbers are not real.
 
 ## Storage
