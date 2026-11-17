@@ -1,0 +1,41 @@
+{
+  "name": "Umiña Stone #02 - Rhodonite",
+  "description": "Sample tumbled rhodonite, pink with grey-black patches, from Junín, submitted through the mint form (fake data for testing).",
+  "stone_id": "UMINA-2026-RH-02",
+  "stone_type": "rhodonite",
+  "specimen_form": "worked",
+  "hs_code": "7103.99.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "vendor_name": "Umiña Achala",
+  "vendor_ruc": "20999887768",
+  "mining_concession": "010253815",
+  "reinfo_id": "10456789124",
+  "reinfo_status": "Vigente",
+  "attributes": {
+    "Weight": "15.2 g",
+    "Grading": "Specimen Grade",
+    "Date Mined": "2026-06-12",
+    "Stone Cut": "Tumbled"
+  },
+  "main_image": {
+    "file": "rhodonite_b1.jpg",
+    "description": "Front view"
+  },
+  "images": [
+    {
+      "file": "rhodonite_b1.png",
+      "description": "Front view, transparent background"
+    }
+  ],
+  "documents": [
+    {
+      "file": "rhodonite_b_store-receipt.pdf",
+      "description": "Store receipt (sample, fake)"
+    },
+    {
+      "file": "rhodonite_b_mining-permit.pdf",
+      "description": "Mining concession and extraction permit (sample, fake)"
+    }
+  ]
+}
