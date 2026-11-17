@@ -1,0 +1,29 @@
+{
+  "name": "Ammonite (refusal test, never minted)",
+  "description": "Fossil ammonite from Cajamarca. Never minted: the mint must refuse it, because fossils are protected by Ley 31204 (refusal test for the testnet run, fake data).",
+  "stone_id": "UMINA-2026-AN-99",
+  "stone_type": "ammonite",
+  "specimen_form": "natural",
+  "hs_code": "9705.00.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "vendor_name": "Umiña Achala",
+  "vendor_ruc": "20999887768",
+  "mining_concession": "010253815",
+  "reinfo_id": "10456789124",
+  "reinfo_status": "Vigente",
+  "attributes": {
+    "Weight": "1.4 kg",
+    "Date Found": "2026-05-10"
+  },
+  "main_image": {
+    "file": "ammonite_a1.jpg",
+    "description": "Front view"
+  },
+  "images": [
+    {
+      "file": "ammonite_a1.png",
+      "description": "Front view, transparent background"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Umiña Stone #01 - Gold",
+  "description": "Sample natural gold nugget from artisanal mining in Arequipa, submitted through the mint form (fake data for testing).",
+  "stone_id": "UMINA-2026-AU-01",
+  "stone_type": "gold",
+  "specimen_form": "natural",
+  "materials": [
+    {
+      "stone_type": "gold",
+      "role": "host",
+      "form": "nugget",
+      "weight_g": 18.4
+    }
+  ],
+  "hs_code": "7108.12.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "vendor_name": "Umiña Achala",
+  "vendor_ruc": "20999887768",
+  "mining_concession": "010253815",
+  "reinfo_id": "10456789124",
+  "reinfo_status": "Vigente",
+  "attributes": {
+    "Weight": "18.4 g",
+    "Grading": "Collector Grade",
+    "Date Mined": "2026-09-02",
+    "Fineness": "22k (about 92% gold)"
+  },
+  "main_image": {
+    "file": "gold_a1.jpg",
+    "description": "Front view"
+  },
+  "images": [
+    {
+      "file": "gold_a1.png",
+      "description": "Front view, transparent background"
+    }
+  ],
+  "documents": [
+    {
+      "file": "gold_a_3d-model.glb",
+      "description": "3D model, estimated from one image (sample)"
+    },
+    {
+      "file": "gold_a_store-receipt.pdf",
+      "description": "Store receipt (sample, fake)"
+    },
+    {
+      "file": "gold_a_mining-permit.pdf",
+      "description": "Mining concession and extraction permit (sample, fake)"
+    }
+  ]
+}

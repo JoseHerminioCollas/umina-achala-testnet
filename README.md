@@ -62,6 +62,12 @@ All images are from [Unsplash](https://unsplash.com), under the [Unsplash Licens
 
 **Retouched (amethyst C–E):** `amethyst_c1`–`amethyst_e1` are the three beads cut from the earrings photo `achala_b1`, each fitted to a round outline; the small parts hidden by the gold fittings, and the gold reflected on the beads, were filled in from the bead's own colour.
 
+**3D render (gold A):** `gold_a1` is cut from a 3D render on Unsplash (`mohamed-nohassi-Ff55WA-hcmQ`), not a photo of a real nugget. A real nugget photo should replace it before any client use. `gold_a_3d-model.glb` is a metallic 3D model built from that image (`stone_glb.py --metallic 1`).
+
+**Estimated views (chrysocolla D):** `chrysocolla_d2.png`–`chrysocolla_d6.png` and `chrysocolla_d_3d-model.glb` are generated from the photo `chrysocolla_d1`, like agate A: the sides and back are invented.
+
+**Fossil (ammonite A), never minted:** `ammonite_a.json` is the refusal test of the run: the stone list marks `ammonite` as a fossil, so the mint must refuse it (Ley 31204). It has no documents, because it is never pinned.
+
 The PDFs are made up for testing. Their permit, REINFO and RUC numbers are not real.
 
 ## Storage
