@@ -1,0 +1,41 @@
+{
+  "name": "Umiña Stone #02 - Pyrite",
+  "description": "Sample tumbled pyrite with crystal pockets, heart-shaped, from Ancash, submitted through the mint form (fake data for testing).",
+  "stone_id": "UMINA-2026-PY-02",
+  "stone_type": "pyrite",
+  "specimen_form": "worked",
+  "hs_code": "2502.00.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "vendor_name": "Umiña Achala",
+  "vendor_ruc": "20999887768",
+  "mining_concession": "010253815",
+  "reinfo_id": "10456789124",
+  "reinfo_status": "Vigente",
+  "attributes": {
+    "Weight": "31 g",
+    "Grading": "Specimen Grade",
+    "Date Mined": "2026-06-03",
+    "Stone Cut": "Tumbled"
+  },
+  "main_image": {
+    "file": "pyrite_b1.jpg",
+    "description": "Front view"
+  },
+  "images": [
+    {
+      "file": "pyrite_b1.png",
+      "description": "Front view, transparent background"
+    }
+  ],
+  "documents": [
+    {
+      "file": "pyrite_b_store-receipt.pdf",
+      "description": "Store receipt (sample, fake)"
+    },
+    {
+      "file": "pyrite_b_mining-permit.pdf",
+      "description": "Mining concession and extraction permit (sample, fake)"
+    }
+  ]
+}
