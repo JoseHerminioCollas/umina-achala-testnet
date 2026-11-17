@@ -60,6 +60,8 @@ All images are from [Unsplash](https://unsplash.com), under the [Unsplash Licens
 
 **Estimated 3D model (quartz B):** `quartz_b_3d-model.glb` is a step-cut gem built from the outline of the Unsplash photo `quartz_b1` (`gem_glb.py`): the top is the photo, the underside and the proportions are invented.
 
+**Retouched (amethyst C–E):** `amethyst_c1`–`amethyst_e1` are the three beads cut from the earrings photo `achala_b1`, each fitted to a round outline; the small parts hidden by the gold fittings, and the gold reflected on the beads, were filled in from the bead's own colour.
+
 The PDFs are made up for testing. Their permit, REINFO and RUC numbers are not real.
 
 ## Storage

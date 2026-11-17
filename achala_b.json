@@ -1,0 +1,55 @@
+{
+  "name": "Achala Earrings #99 - Amethyst in Gold",
+  "description": "Sample drop earrings with three certified Umiña amethyst beads on an 18k gold chain, with a small pearl accent (not a certified Umiña stone), submitted through the mint form (fake data for testing).",
+  "stone_id": "ACHALA-2026-ER-99",
+  "piece_type": "earrings",
+  "stones": [
+    {
+      "serial": 1,
+      "stone_id": "UMINA-2026-AM-03"
+    },
+    {
+      "serial": 2,
+      "stone_id": "UMINA-2026-AM-04"
+    },
+    {
+      "serial": 3,
+      "stone_id": "UMINA-2026-AM-05"
+    }
+  ],
+  "metals": [
+    {
+      "stone_type": "gold",
+      "fineness": "18k",
+      "weight_g": 1.2,
+      "source": "invoice"
+    }
+  ],
+  "technique": "Bead drop on chain",
+  "artisan_rna": "RNA-112233",
+  "hs_code": "7113.19.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "creator": "Joyería Ejemplo S.A.C.",
+  "vendor_name": "Joyería Ejemplo S.A.C.",
+  "vendor_ruc": "20999887768",
+  "attributes": {
+    "Drop Length": "4 cm"
+  },
+  "main_image": {
+    "file": "achala_b1.jpg",
+    "description": "Front view"
+  },
+  "images": [
+    {
+      "file": "achala_b1.png",
+      "description": "Front view, transparent background"
+    }
+  ],
+  "documents": [
+    {
+      "file": "achala_b_gold-invoice.pdf",
+      "description": "Gold invoice (sample, fake)"
+    }
+  ]
+}
