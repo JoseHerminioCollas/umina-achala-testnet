@@ -3,7 +3,7 @@
   "description": "Sample pendant with a certified Umiña chrysocolla in 950 silver, submitted through the mint form (fake data for testing).",
   "stone_id": "ACHALA-2026-PE-99",
   "piece_type": "pendant",
-  "stones": [{ "serial": 3, "stone_id": "UMINA-2026-CH-99" }],
+  "stones": [{ "serial": 1, "stone_id": "UMINA-2026-CH-99" }],
   "metals": [{ "stone_type": "silver", "fineness": "950", "weight_g": 6.5, "source": "invoice" }],
   "technique": "Wire wrapping",
   "artisan_rna": "RNA-112233",
