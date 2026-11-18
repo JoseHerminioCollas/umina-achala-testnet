@@ -58,6 +58,8 @@ All images are from [Unsplash](https://unsplash.com), under the [Unsplash Licens
 
 **Estimated views (agate A):** `agate_a2.png`–`agate_a6.png` and `agate_a_3d-model.glb` are not photos. They were generated from the Unsplash photo `agate_a1` with the SAM 2 tool (`~/projects/sam2_goatstone`): the stone is modelled as a rounded tumbled shape, and its sides and back are invented from the front. They are here to test the multi-image card and the 3D view (umina-achala/umina-achala-web#119); real stones get real photos and 3D scans.
 
+**Mislabelled on purpose (agate A):** the Unsplash photo `agate_a1` was sold as agate, but the stone looks like a stromatolite (a fossil). It is kept as agate on testnet, as the example of why a third-party identification matters (umina-achala/umina-achala-chain#38): a post's own `stone_type` is only the seller's word. It must not be used for a real stone.
+
 **Estimated 3D model (quartz B):** `quartz_b_3d-model.glb` is a step-cut gem built from the outline of the Unsplash photo `quartz_b1` (`gem_glb.py`): the top is the photo, the underside and the proportions are invented.
 
 **Retouched (amethyst C–E):** `amethyst_c1`–`amethyst_e1` are the three beads cut from the earrings photo `achala_b1`, each fitted to a round outline; the small parts hidden by the gold fittings, and the gold reflected on the beads, were filled in from the bead's own colour.

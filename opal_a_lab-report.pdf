@@ -9,13 +9,13 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
 endobj
 4 0 obj
-<< /Length 658 >>
+<< /Length 670 >>
 stream
 BT /F1 14 Tf 60 760 Td 18 TL
 (SAMPLE - FAKE DOCUMENT FOR TESTING ONLY) Tj T*
 () Tj T*
 (Sample Gem Lab [not a real laboratory]) Tj T*
-(Gemstone Identification and Grading Report) Tj T*
+(Gemstone Identification Report) Tj T*
 (Report no: SGL-2026-00121) Tj T*
 (Date: 2026-11-17) Tj T*
 (Stone: UMINA-2026-OP-01) Tj T*
@@ -25,7 +25,7 @@ BT /F1 14 Tf 60 760 Td 18 TL
 (Colour: Blue-green with orange matrix) Tj T*
 (Identification: Natural opal, Andean blue \(common opal\), with matrix) Tj T*
 (Treatment: None detected) Tj T*
-(Grade: A) Tj T*
+(Not graded: identification only.) Tj T*
 () Tj T*
 (Verify: https://example.org/verify/SGL-2026-00121 [not a real service]) Tj T*
 () Tj T*
@@ -43,9 +43,9 @@ xref
 0000000058 00000 n 
 0000000115 00000 n 
 0000000241 00000 n 
-0000000949 00000 n 
+0000000961 00000 n 
 trailer
 << /Size 6 /Root 1 0 R >>
 startxref
-1019
+1031
 %%EOF

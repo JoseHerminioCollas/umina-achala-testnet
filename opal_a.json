@@ -12,19 +12,27 @@
   "mining_concession": "010253815",
   "reinfo_id": "10456789124",
   "reinfo_status": "Vigente",
-  "certification": [
+  "certifications": [
     {
       "issuer": "Sample Gem Lab",
       "report_no": "SGL-2026-00121",
       "date": "2026-11-17",
       "verify_url": "https://example.org/verify/SGL-2026-00121",
       "covers": [
-        "type",
-        "quality"
+        "type"
       ],
       "identification": "Natural opal, Andean blue (common opal), with matrix",
-      "grade": "A",
       "document": "opal_a_lab-report.pdf"
+    },
+    {
+      "issuer": "Sample Grading Service",
+      "report_no": "SGS-2026-0045",
+      "date": "2026-11-18",
+      "covers": [
+        "quality"
+      ],
+      "grade": "A",
+      "document": "opal_a_grading-report.pdf"
     }
   ],
   "attributes": {
@@ -46,7 +54,11 @@
   "documents": [
     {
       "file": "opal_a_lab-report.pdf",
-      "description": "Gem lab report: identification and grade (sample, fake)"
+      "description": "Gem lab report: identification (sample, fake)"
+    },
+    {
+      "file": "opal_a_grading-report.pdf",
+      "description": "Grading report from a second lab (sample, fake)"
     },
     {
       "file": "opal_a_store-receipt.pdf",
