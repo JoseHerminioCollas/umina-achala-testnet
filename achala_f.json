@@ -1,5 +1,4 @@
 {
-  "name": "Achala Ring - Refusal test (reuses the stone of Achala C)",
   "description": "Refusal test, never minted: a second ring that lists UMINA-2026-QZ-03, already mounted in ACHALA-2026-RI-01. The mint must refuse it (fake data for testing).",
   "stone_id": "ACHALA-2026-RI-99",
   "piece_type": "ring",

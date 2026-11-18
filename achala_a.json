@@ -1,6 +1,5 @@
 {
-  "name": "Achala Pendant #99 - Chrysocolla in Silver",
-  "description": "Sample pendant with a certified Umiña chrysocolla in 950 silver, submitted through the mint form (fake data for testing).",
+  "description": "Sample pendant with a documented Umiña chrysocolla in 950 silver, submitted through the mint form (fake data for testing).",
   "stone_id": "ACHALA-2026-PE-99",
   "piece_type": "pendant",
   "stones": [{ "serial": 1, "stone_id": "UMINA-2026-CH-99" }],
