@@ -18,15 +18,9 @@
     "Habit": "Crystal cluster"
   },
   "main_image": {
-    "file": "amethyst_a1.jpg",
+    "file": "amethyst_a1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "amethyst_a1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "amethyst_a_store-receipt.pdf",

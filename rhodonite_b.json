@@ -18,15 +18,9 @@
     "Stone Cut": "Tumbled"
   },
   "main_image": {
-    "file": "rhodonite_b1.jpg",
+    "file": "rhodonite_b1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "rhodonite_b1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "rhodonite_b_store-receipt.pdf",

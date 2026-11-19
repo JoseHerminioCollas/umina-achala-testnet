@@ -18,15 +18,9 @@
     "Habit": "Botryoidal"
   },
   "main_image": {
-    "file": "malachite_a1.jpg",
+    "file": "malachite_a1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "malachite_a1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "malachite_a_store-receipt.pdf",

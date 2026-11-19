@@ -31,15 +31,9 @@
     "Stone Cut": "Tumbled"
   },
   "main_image": {
-    "file": "opal_c1.jpg",
+    "file": "opal_c1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "opal_c1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "opal_c_lab-report.pdf",

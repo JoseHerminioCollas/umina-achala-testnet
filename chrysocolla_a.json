@@ -18,14 +18,10 @@
     "Stone Cut": "Cabochon"
   },
   "main_image": {
-    "file": "chrysocolla_a1.jpg",
+    "file": "chrysocolla_a1.png",
     "description": "View 1 of 3"
   },
   "images": [
-    {
-      "file": "chrysocolla_a1.png",
-      "description": "View 1 of 3, transparent background"
-    },
     {
       "file": "chrysocolla_a2.png",
       "description": "View 2 of 3, turned 120°"

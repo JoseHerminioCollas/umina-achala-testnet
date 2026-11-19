@@ -18,15 +18,9 @@
     "Stone Cut": "Tumbled"
   },
   "main_image": {
-    "file": "pyrite_b1.jpg",
+    "file": "pyrite_b1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "pyrite_b1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "pyrite_b_store-receipt.pdf",

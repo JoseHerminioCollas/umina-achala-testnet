@@ -18,15 +18,9 @@
     "Habit": "Crystal cluster"
   },
   "main_image": {
-    "file": "pyrite_a1.jpg",
+    "file": "pyrite_a1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "pyrite_a1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "pyrite_a_store-receipt.pdf",

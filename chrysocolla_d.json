@@ -18,14 +18,10 @@
     "Stone Cut": "Tumbled"
   },
   "main_image": {
-    "file": "chrysocolla_d1.jpg",
+    "file": "chrysocolla_d1.png",
     "description": "Front view"
   },
   "images": [
-    {
-      "file": "chrysocolla_d1.png",
-      "description": "Front view, transparent background"
-    },
     {
       "file": "chrysocolla_d2.png",
       "description": "Front view, turned left 25° (estimated from photo 1)"

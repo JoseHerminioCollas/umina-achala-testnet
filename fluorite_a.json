@@ -18,15 +18,9 @@
     "Stone Cut": "Palm stone, polished"
   },
   "main_image": {
-    "file": "fluorite_a1.jpg",
+    "file": "fluorite_a1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "fluorite_a1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "fluorite_a_store-receipt.pdf",

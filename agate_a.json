@@ -18,14 +18,10 @@
     "Stone Cut": "Tumbled"
   },
   "main_image": {
-    "file": "agate_a1.jpg",
+    "file": "agate_a1.png",
     "description": "Front view"
   },
   "images": [
-    {
-      "file": "agate_a1.png",
-      "description": "Front view, transparent background"
-    },
     {
       "file": "agate_a2.png",
       "description": "Front view, turned left 25° (estimated from photo 1)"

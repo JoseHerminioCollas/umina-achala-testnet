@@ -19,15 +19,9 @@
     "Dimensions": "16 × 12 × 7 mm"
   },
   "main_image": {
-    "file": "quartz_c1.jpg",
+    "file": "quartz_c1.png",
     "description": "Front view, set in its ring"
   },
-  "images": [
-    {
-      "file": "quartz_c1.png",
-      "description": "Front view, set in its ring, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "quartz_c_store-receipt.pdf",

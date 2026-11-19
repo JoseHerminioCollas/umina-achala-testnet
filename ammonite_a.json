@@ -16,13 +16,7 @@
     "Date Found": "2026-05-10"
   },
   "main_image": {
-    "file": "ammonite_a1.jpg",
+    "file": "ammonite_a1.png",
     "description": "Front view"
-  },
-  "images": [
-    {
-      "file": "ammonite_a1.png",
-      "description": "Front view, transparent background"
-    }
-  ]
+  }
 }

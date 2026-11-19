@@ -18,15 +18,9 @@
     "Stone Cut": "Tumbled"
   },
   "main_image": {
-    "file": "fluorite_c1.jpg",
+    "file": "fluorite_c1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "fluorite_c1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "fluorite_c_store-receipt.pdf",

@@ -19,15 +19,9 @@
     "Dimensions": "22 × 13 × 5 mm"
   },
   "main_image": {
-    "file": "quartz_d1.jpg",
+    "file": "quartz_d1.png",
     "description": "Top view, set in its ring"
   },
-  "images": [
-    {
-      "file": "quartz_d1.png",
-      "description": "Top view, set in its ring, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "quartz_d_store-receipt.pdf",

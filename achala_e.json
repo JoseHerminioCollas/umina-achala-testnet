@@ -29,13 +29,7 @@
     "Cord": "Black waxed cotton, 45 cm"
   },
   "main_image": {
-    "file": "gold_a1.jpg",
+    "file": "gold_a1.png",
     "description": "Front view"
-  },
-  "images": [
-    {
-      "file": "gold_a1.png",
-      "description": "Front view, transparent background"
-    }
-  ]
+  }
 }

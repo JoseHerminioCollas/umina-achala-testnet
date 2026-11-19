@@ -36,15 +36,9 @@
     "Drop Length": "4 cm"
   },
   "main_image": {
-    "file": "achala_b1.jpg",
+    "file": "achala_b1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "achala_b1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "achala_b_gold-invoice.pdf",

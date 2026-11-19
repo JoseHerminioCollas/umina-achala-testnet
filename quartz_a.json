@@ -18,15 +18,9 @@
     "Habit": "Crystal cluster"
   },
   "main_image": {
-    "file": "quartz_a1.jpg",
+    "file": "quartz_a1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "quartz_a1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "quartz_a_store-receipt.pdf",

@@ -34,7 +34,7 @@
     "Ring Size": "6 (US)"
   },
   "main_image": {
-    "file": "achala_d1.jpg",
+    "file": "achala_d1.png",
     "description": "Three-quarter view"
   },
   "documents": [
@@ -49,12 +49,6 @@
     {
       "file": "achala_d_consignment-agreement.pdf",
       "description": "Consignment agreement with the merchant (sample, fake)"
-    }
-  ],
-  "images": [
-    {
-      "file": "achala_d1.png",
-      "description": "Three-quarter view, transparent background"
     }
   ]
 }

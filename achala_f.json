@@ -28,19 +28,13 @@
     "Ring Size": "7 (US)"
   },
   "main_image": {
-    "file": "achala_c1.jpg",
+    "file": "achala_c1.png",
     "description": "Side view"
   },
   "documents": [
     {
       "file": "achala_c_silver-invoice.pdf",
       "description": "Silver invoice (sample, fake)"
-    }
-  ],
-  "images": [
-    {
-      "file": "achala_c1.png",
-      "description": "Side view, transparent background"
     }
   ]
 }

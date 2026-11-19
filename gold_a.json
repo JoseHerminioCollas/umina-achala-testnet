@@ -26,15 +26,9 @@
     "Fineness": "22k (about 92% gold)"
   },
   "main_image": {
-    "file": "gold_a1.jpg",
+    "file": "gold_a1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "gold_a1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "gold_a_3d-model.glb",

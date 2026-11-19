@@ -18,15 +18,9 @@
     "Stone Cut": "Tumbled"
   },
   "main_image": {
-    "file": "chrysocolla_b1.jpg",
+    "file": "chrysocolla_b1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "chrysocolla_b1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "chrysocolla_b_store-receipt.pdf",

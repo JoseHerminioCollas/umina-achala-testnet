@@ -18,15 +18,9 @@
     "Habit": "Crystal cluster"
   },
   "main_image": {
-    "file": "azurite_a1.jpg",
+    "file": "azurite_a1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "azurite_a1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "azurite_a_store-receipt.pdf",

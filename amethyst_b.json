@@ -18,15 +18,9 @@
     "Habit": "Crystal point"
   },
   "main_image": {
-    "file": "amethyst_b1.jpg",
+    "file": "amethyst_b1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "amethyst_b1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "amethyst_b_store-receipt.pdf",

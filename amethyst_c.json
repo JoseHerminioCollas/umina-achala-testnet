@@ -18,15 +18,9 @@
     "Stone Cut": "Bead, round, polished, drilled"
   },
   "main_image": {
-    "file": "amethyst_c1.jpg",
+    "file": "amethyst_c1.png",
     "description": "Front view"
   },
-  "images": [
-    {
-      "file": "amethyst_c1.png",
-      "description": "Front view, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "amethyst_c_store-receipt.pdf",

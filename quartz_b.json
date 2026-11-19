@@ -34,15 +34,9 @@
     "Dimensions": "12.0 × 9.4 × 5.9 mm"
   },
   "main_image": {
-    "file": "quartz_b1.jpg",
+    "file": "quartz_b1.png",
     "description": "Front view, table up"
   },
-  "images": [
-    {
-      "file": "quartz_b1.png",
-      "description": "Front view, table up, transparent background"
-    }
-  ],
   "documents": [
     {
       "file": "quartz_b_lab-report.pdf",

@@ -24,9 +24,9 @@ All files sit at the top level, no folders: `<stone_type>_<stone letter><photo n
 ```
 chrysocolla_a.json                 stone A's form post
 achala_a.json                      Achala A's form post (a pendant with chrysocolla A)
-chrysocolla_a1.jpg                 stone A, photo 1: main_image, on white
-chrysocolla_a1.png                 stone A, photo 1: transparent (images[0])
-chrysocolla_a2.png                 stone A, photo 2
+chrysocolla_a1.png                 stone A, photo 1: main_image, transparent
+chrysocolla_a1.jpg                 stone A, photo 1 on white (not used since umina-achala-chain#42)
+chrysocolla_a2.png                 stone A, photo 2 (images[0])
 chrysocolla_a3.png                 stone A, photo 3
 chrysocolla_a_mining-permit.pdf    stone A's documents
 chrysocolla_a_store-receipt.pdf
@@ -38,18 +38,18 @@ Photo descriptions in the form posts: "Front view", "Back view", "Side view" whe
 
 ## Images
 
-Each stone's main photo goes in as two files of the same shot:
+Every photo is a PNG with a transparent background, and each is listed once (umina-achala-chain#42, 2026-11-19):
 
-- **`main_image`:** JPEG, quality 95, on a white background (black or grey for a white stone). Wallets show this one.
-- **`images[0]`:** the same photo as a PNG with a transparent background. The website shows this one.
-- **`images[1…]`:** other angles, also PNG with a transparent background. `images` holds at most 20 (umina-achala-chain#35), so this leaves room for 19.
+- **`main_image`:** the main photo. It becomes `image`, which wallets and marketplaces show, on their own theme.
+- **`images`:** the other angles, never the main photo again. At most 20 (umina-achala-chain#35).
+- **On a background:** only a piece photographed on purpose on a background (none this round) goes in as a JPEG.
 - **Size:** 2000–3000 px on the long side; at least 1000 px.
 - **Not accepted by the mint:** HEIC, GIF, TIFF. Convert phone HEIC photos to JPEG first. WebP is accepted but gains little.
 - Keep camera originals unedited and edit copies.
 
-What the mint does with a photo (up to 25 MB): it strips EXIF/GPS and keeps a **master** at the original size and format (JPEG and WebP saved again at quality 95, PNG lossless). For the main photo only, it also makes a **display** version, a JPEG of 1080 px on the long side at quality 82, which wallets and marketplaces show. No thumbnails are needed here.
+What the mint does with a photo (up to 25 MB): it strips EXIF/GPS and pins **one file** per photo, at most 1600 px on the long side. A photo with transparency becomes a PNG with a reduced palette (slightly lossy, about a quarter of a lossless PNG); one without becomes a JPEG at quality 82. No thumbnails are needed here.
 
-For each stone: cut it out once and export the transparent PNG (`images[0]`). Then flatten a copy onto the background colour in GIMP and export it as the JPEG for `main_image`. The main photo must have no transparency: the mint does not set a background for the display version, so transparent areas would come out black.
+For each stone: cut it out and export the transparent PNG. The `<name>1.jpg` files on white were the old main photos, from before umina-achala-chain#42; the posts no longer use them.
 - A group photo: cut each stone out with the SAM 2 tool (`~/projects/sam2_goatstone`, `cut.py`), then clean the edge in GIMP (Layer → Transparency → Alpha to Selection, Select → Shrink/Grow) and export. The group photo stays as a layer in `<stone_type>_master.xcf`.
 
 ## Sources and rights
