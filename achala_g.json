@@ -1,0 +1,41 @@
+{
+  "description": "Sample pendant remade from the same documented Umiña gold nugget after Achala E was taken apart (burned), drilled for a cord; its gold is the nugget itself (metal source umina), submitted through the mint form (fake data for testing).",
+  "stone_id": "ACHALA-2026-PE-02",
+  "piece_type": "pendant",
+  "stones": [
+    {
+      "serial": 8,
+      "stone_id": "UMINA-2026-AU-01"
+    }
+  ],
+  "metals": [
+    {
+      "stone_type": "gold",
+      "fineness": "22k",
+      "weight_g": 18.4,
+      "source": "umina",
+      "stone_id": "UMINA-2026-AU-01"
+    }
+  ],
+  "technique": "Natural nugget, drilled and polished on the high points",
+  "artisan_rna": "RNA-112233",
+  "hs_code": "7113.19.00.00",
+  "jurisdiction": "Peru",
+  "legal_uri": "https://umina-achala.pe/",
+  "creator": "Joyería Ejemplo S.A.C.",
+  "vendor_name": "Joyería Ejemplo S.A.C.",
+  "vendor_ruc": "20999887768",
+  "attributes": {
+    "Cord": "Black waxed cotton, 45 cm"
+  },
+  "main_image": {
+    "file": "gold_a1.jpg",
+    "description": "Front view"
+  },
+  "images": [
+    {
+      "file": "gold_a1.png",
+      "description": "Front view, transparent background"
+    }
+  ]
+}
